@@ -15,6 +15,6 @@ use command: pip install pygame
 
 # Run in Gitpod
 
-You can also run Flappy Bird in Gitpod, a free online dev environment for GitHub:
+You can run Flappy Bird in Gitpod, a free online dev environment for GitHub:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rachit-keshari/Flappy_Bird_Python/master/main.py)
